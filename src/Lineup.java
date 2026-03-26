@@ -38,5 +38,6 @@ public class Lineup {
         // Step 5: Print the total roster size using .size()
         System.out.println("Total Roster: " + roster.size() + " Players");
 
+        
     }
 }
